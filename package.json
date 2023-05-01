@@ -1,0 +1,11 @@
+{
+  "name": "fakeIndexedDB-82",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "fake-indexeddb": "^4.0.1",
+    "happy-dom": "^9.10.1"
+  },
+  "type": "module"
+}
